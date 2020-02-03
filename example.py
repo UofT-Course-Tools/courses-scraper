@@ -1,3 +1,3 @@
-import coursescraper
+import uoftscraper
 
-coursescraper.Courses.scrape()
+uoftscraper.Courses.scrape()
